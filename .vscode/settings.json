@@ -1,0 +1,6 @@
+{
+    "git.enabled": true,
+    "explorer.excludeGitIgnore": true,
+    "doxdocgen.generic.useGitUserName": true,
+    "doxdocgen.generic.useGitUserEmail": true
+}
